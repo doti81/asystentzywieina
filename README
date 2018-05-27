@@ -1,0 +1,49 @@
+1. Zakupy
+
+   $ php zakupy.php
+   
+   Wynik:
+     1. 3 jajka
+     2. 1 maslo (250gram)
+     3. 2 jablka
+
+2. Rozpakuj
+
+  $ php rozpakuj.php 
+
+  Wynik:
+    3 jajka? (enter lub wpisz liczbę)
+    1 masło? (enter lub wpisz liczbę)
+    2 jabłka? (enter lub wpisz liczbę)
+
+3. Gotowanie
+
+  $ php gotowanie.php 
+   
+  Wynik:
+    1 jablko
+    2 jajka
+    0.1 masla
+
+    omlet z jabkiem: obierz jabłko, podziel na części , usmaż cząstki jabłka, wlej jajka na usmażone jabłka
+    (enter aby potwierdzić gotowanie , spacja - pominięcie)
+
+4. Jedzenie
+
+  $ php jedzenie.php
+
+  Wynik:
+    omlet 0,5 12:00
+    (enter aby potwierdzić zjedzenie/wyrzucenie, spacja - pominięcie)
+
+5. Lodowka
+
+  $ php lodowka.php 
+
+  Wynik:
+    1 jajko? (enter lub wpisz liczbę)
+    0.9 masło? (enter lub wpisz liczbę)
+    1 jabłko? (enter lub wpisz liczbę)
+   
+
+
